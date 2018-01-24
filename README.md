@@ -4,7 +4,7 @@
 | Features | tags, automatic caption, adult content detection, racy content detection, categories, faces, age, gender, foreground color, background color, dominant color, OCR, celebrity recognition, handwritten OCR, generate thumbnails, label detection | tags, adult content detection, spoof content detection, violent content detection, medical content detection, logo detection, landmark detection, OCR, face detection, dominant color, related image search, web entity search, sentiment detection, label detection | tags, label detection, categories, faces, age, gender, celebrity recognition, custom classifier |  |  |
 | **Content moderation for images, video and text** | **Content Moderator API** |  |  |  |  |
 | Features | classifiers, custom blacklist, OCR, custom text lists, personally identifiable information (pii) detection, adult content detection, human review workflow |  |  |  |  |
-| **Video insights** | **Video Indexer** | **Cloud Video Intelligence API ** |  |  |  |
+| **Video insights** | **Video Indexer** | **Cloud Video Intelligence API** |  |  |  |
 | Features | audio transcription, face tracking, face detection, face recognition, face labeling, speaker indexing, visual text recognition, voice activity detection, scene dectection, keyframe detection, sentiment analysis, translation, content moderation, keywords extraction, annotation, video segmentation | label detections, tags, shot detection, video segmentation |  |  |  |
 | **Face detection and verification in images** | **Face API** | **Cloud Vision API** |  |  |  |
 | Features | face detection, face identification, face recognition, similar face search, face grouping, face attributes, baldness detection, hair color detection, smile detection, gender, age, facial hair, glasses, makeup, emotions, accessories, face landmarks, celebrity recognition, smile detection, sentiment detection | face detection, face attributes, smile detection, sentiment detection |  |  |  |
@@ -30,7 +30,7 @@
 | Features | sentiment analysis, key phrase extraction, keyword detection, language detection | sentiment analysis, topic detection, entity detection, sentence separation, part-of-speech tagging, constituency parsing, morphology | sentiment analysis, targeted sentiment analysis, keyword sentiment analysis, concepts, entity detection, keyword detection, categorization, entity relations, sdk, language detection |  |  |
 | **Real-time text translation** | **Translator Text API** | **Cloud Translation API** | **Language Translator ** |  |  |
 | Features | language detection, translation, custom translation system, CTF support | language detection, translation | language detection, translation, custom language model |  |  |
-| **Linguistic analysis for natural language processing** | **Linguitic analysis API** | **Cloud Natural Language API ** |  |  |  |
+| **Linguistic analysis for natural language processing** | **Linguitic analysis API** | **Cloud Natural Language API** |  |  |  |
 | Features | sentence separation, tokenization, part-of-speech tagging, constituency parsing | sentiment analysis, topic detection, entity detection, sentence separation, part-of-speech tagging, constituency parsing, morphology |  |  |  |
 | **Interactive search experiences over structured data via natural language inputs** | **Knowledge Exploration Service** |  |  |  |  |
 | Features | natural language understanding, query auto-completion, structured query evaluation, attribute histogram |  |  |  |  |
