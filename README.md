@@ -26,7 +26,7 @@
 | Features | joint probabilities, conditional probabilities, next word suggestions |  |  |  |  |
 | **Extract insights from text** | **Text analytics API** | **Cloud Natural Language API** | **Natural Language Understanding** | **Comprehend** |  |
 | Features | sentiment analysis, key phrase extraction, keyword detection, language detection | sentiment analysis, topic detection, entity detection, sentence separation, part-of-speech tagging, constituency parsing, morphology | sentiment analysis, targeted sentiment analysis, keyword sentiment analysis, concepts, entity detection, keyword detection, categorization, entity relations, sdk, language detection | sentiment analysis, key phrase extraction, keyword detection, language detection, entity detection, topic modeling |  |
-| **Real-time text translation** | **Translator Text API** | **Cloud Translation API** | **Language Translator ** | **Translate** |  |
+| **Real-time text translation** | **Translator Text API** | **Cloud Translation API** | **Language Translator** | **Translate** |  |
 | Features | language detection, translation, custom translation system, CTF support | language detection, translation | language detection, translation, custom language model | translation |  |
 | **Linguistic analysis for natural language processing** | **Linguitic analysis API** | **Cloud Natural Language API** |  |  |  |
 | Features | sentence separation, tokenization, part-of-speech tagging, constituency parsing | sentiment analysis, topic detection, entity detection, sentence separation, part-of-speech tagging, constituency parsing, morphology |  |  |  |
